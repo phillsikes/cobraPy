@@ -14,8 +14,9 @@ License: MIT
 - Inspired by the TV Show Cobra Kai.
 ---
 ### Roadmap
-- [x] Initial functionality Complete
-- [ ] Properly loop the gameplay instead of abruptly forcing the end.
+- [x] Initial functionality Complete.
+- [ ] Expand functionality and gameplay.
+- [ ] Properly loop the game instead of abruptly forcing the end.
 - [ ] Add additional ASCII art and separate into a resource file.
 ---
 ## Do you want to play a game?
