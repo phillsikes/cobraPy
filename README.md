@@ -39,7 +39,7 @@ git clone https://github.com/phillsikes/cobraPy.git
 ```
 
 ### Run the game:
-- Change directory to the directory containing the aliens.py file
+- Change directory to the directory containing the cobra.py file
 - Execute the file
 
 ```
